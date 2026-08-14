@@ -1,16 +1,16 @@
-# Lab
+# lab
 
-Personal experiments and small utilities. Mostly Ruby, some notes.
+Personal experiments and small tools in Ruby.
 
 ## Contents
 
-- `scripts/` – one-off tools
-- `notes/` – research and API design musings
+- `scripts/` — one-off utility scripts
+- `notes/` — quick notes and design sketches
 
 ## Usage
 
-Each subdirectory has its own README. Run scripts with `ruby <file>` unless noted.
+Most scripts run directly with `ruby <script>.rb`. See individual file headers for details.
 
 ## License
 
-MIT (see LICENSE).
+MIT (unless noted otherwise in a specific file).
